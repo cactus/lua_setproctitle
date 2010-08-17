@@ -53,6 +53,8 @@ After building, while in the build directory::
 Usage
 -----
 
+::
+
     #!/usr/bin/env lua
     s = require "setproctitle"
     print(s.getproctitle())
